@@ -1,1 +1,0 @@
-pritn("Hello.PR")
